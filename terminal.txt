@@ -1,0 +1,16 @@
+# Copy the commands to your kali Linux window  
+
+**Copy these two commands first**
+
+cd Desktop 
+chmod +x tool.py 
+
+** Copy the below command to find the location of an IP or Ip of any domain **
+
+python3 tool.py {domain_name or Ip_address}
+
+example: 
+
+python3 tool.py google.com
+
+python3 tool.py 142.251.42.14
