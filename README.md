@@ -14,7 +14,7 @@
 
 **STEP5:** Open the root terminal in your Kali 
 
-**STEP6:** Follow the steps in the 
+**STEP6:** Follow the steps in the terminal.txt 
 
 
  
